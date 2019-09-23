@@ -1,0 +1,5 @@
+This shell script is used to install docker application (Docker Engine-Community) on Ubuntu 16 TLS.
+
+In the "install_docker" directory, execute the following command:
+chmod u+x install_docker.sh
+./install_docker.sh
